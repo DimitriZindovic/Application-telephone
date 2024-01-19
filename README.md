@@ -1,3 +1,3 @@
 # vue-rendu
 
-https://rendu-vue-beta.vercel.app/recent
+https://rendu-vue-beta.vercel.app/
