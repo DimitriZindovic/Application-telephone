@@ -44,7 +44,7 @@ export default {
         date: "",
         time: "",
       };
-      this.callerName = ""; // Réinitialiser le nom après avoir ajouté l'appel
+      this.callerName = "";
     },
 
     addNumber(number) {
