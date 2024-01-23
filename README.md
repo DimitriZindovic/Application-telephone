@@ -1,3 +1,3 @@
-# vue-rendu
+# Rendu-vue
 
 https://rendu-vue-beta.vercel.app/
