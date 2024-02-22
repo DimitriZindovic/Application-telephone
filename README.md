@@ -13,7 +13,7 @@ CSS
 
 <h2>Auteur :</h2>
 
-Dimitri
+Dimitri Zindovic
 
 <h2>Déploiement</h2>
 
